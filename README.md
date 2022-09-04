@@ -1,9 +1,9 @@
 ### Hello There,I'm Vayvın
 ## Im Front End Web Developer
 ### My Social Media Account
-<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" id=Twitter />]
+<a href="https://twitter.com/Vayvin_" rel="nofollow"> 
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emrelutfii" height="30" width="40" style="max-width: 100%;">
 <img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />
-<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left" />
 <br>
 <br>
 ### Techs I use
